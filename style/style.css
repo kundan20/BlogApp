@@ -1,0 +1,12 @@
+
+h3 {
+  text-align: center;
+  text-shadow: 2px 1px grey;
+
+}
+form a {
+    margin-left: 5px;
+}
+a.btn-primary {
+  margin-top: 10px;
+}
